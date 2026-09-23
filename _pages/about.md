@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tianxiang Wu's Academic Homepage"
+title: "Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
