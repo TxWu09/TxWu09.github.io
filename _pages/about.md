@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 Hi! I’m Tianxiang Wu.
-My research interests focus on **knowledge-enhanced LLMs**, **LLM Reasoning**, **LLM Agent** and the broader foundations of intelligent and interpretable AI systems.
-I’m pursuing a B.S. in Mathematics and Computer Science at the University of Illinois Urbana-Champaign, where I’ve maintained a 4.0 GPA across advanced coursework in algorithms, machine learning, and data systems.
-Beyond classes, I’ve participated in and led multiple research projects that strengthened my passion for building principled and creative AI systems.
+My research interests center on **generative modeling** (diffusion models, flow matching, Schrödinger Bridge methods), **LLM reasoning and agent systems**, and their applications to real-world decision-making and embodied AI.
+
+I completed my B.S. in Mathematics & Computer Science at the University of Illinois Urbana-Champaign (May 2026) with a 4.00/4.00 GPA and Highest Honors. I will be joining **Harvard University** in Fall 2026 as a Master's student in Computational Science and Engineering.
+
+At UIUC, I worked on Schrödinger Bridge methods for diffusion models with Prof. Ge Liu, C-to-Rust code translation with Prof. Reyhaneh Jabbarvand, and optimal symplectic map search with Prof. Ely Kerman. I've also interned as an AI Algorithm Engineer at Envision Digital, building LLM-orchestrated agent pipelines for time-series analysis, and worked as a software engineer intern at Technical Consulting & Research and Jiangsu Hoperun Software.
+
+You can find my full [CV here](/files/Tianxiang_Wu_CV_2026.pdf).
 

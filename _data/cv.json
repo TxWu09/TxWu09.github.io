@@ -1,152 +1,110 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Tianxiang Wu",
+    "email": "tianxiangwu@g.harvard.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://TxWu09.github.io",
+    "summary": "Incoming M.S. student in Computational Science and Engineering at Harvard University. B.S. in Mathematics & Computer Science, UIUC. Research interests: generative modeling, LLM reasoning & agent systems, embodied AI.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Cambridge",
       "countryCode": "US",
-      "region": ""
+      "region": "MA"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "TxWu09",
+        "url": "https://github.com/TxWu09"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "Envision Digital International Pte. Ltd.",
+      "position": "AI Algorithm Engineer Intern",
+      "website": "",
+      "startDate": "2026-06-01",
+      "endDate": "",
+      "summary": "Shanghai, China. Built a ReAct-style LLM orchestration agent for adaptive time-series analysis pipelines, a hybrid BM25/dense operator retriever, and a Kubernetes-scaled FastAPI service."
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "company": "Technical Consulting & Research, Inc.",
+      "position": "Software Engineer Intern",
+      "website": "",
+      "startDate": "2025-11-01",
+      "endDate": "2026-02-01",
+      "summary": "Champaign, IL. Built a Flask-based compliance assessment platform (SSP/POA&M workflows) with a provider-agnostic LLM integration layer."
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Jiangsu Hoperun Software Co., Ltd.",
+      "position": "Software Engineer Intern",
+      "website": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-01",
+      "summary": "Nanjing, China. Built a data-driven test automation framework and containerized RESTful API regression suite for OTA firmware."
     }
   ],
-  "skills": [],
+  "education": [
+    {
+      "institution": "Harvard University",
+      "area": "M.S. in Computational Science and Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2026-09-01",
+      "endDate": "2028-05-01",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Illinois Urbana-Champaign",
+      "area": "Mathematics & Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2022-08-01",
+      "endDate": "2026-05-01",
+      "gpa": "4.00/4.00",
+      "courses": ["Discrete Mathematics", "Differential Equations", "Abstract Linear Algebra", "Numerical Analysis", "Database Systems", "Graph Theory", "Machine Learning", "Algorithms"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Mathematical & Theoretical Foundations",
+      "keywords": ["Optimal Transport", "Schrödinger Bridge", "SDE/ODE", "Stochastic Processes", "Probability Theory", "Functional Analysis", "Linear Algebra"]
+    },
+    {
+      "name": "Generative Modeling & Deep Learning",
+      "keywords": ["Diffusion Models", "Flow Matching", "Score-based Models", "Energy-Based Models (EBM)", "Representation Learning", "PyTorch", "JAX", "TensorFlow", "Distributed Training"]
+    },
+    {
+      "name": "Large Language Models & Agent Systems",
+      "keywords": ["LLM Alignment (RLHF/DPO)", "Instruction Tuning", "Reasoning (CoT/ToT/Test-Time Search)", "RAG", "Tool Use/Function Calling", "Multi-Agent Collaboration", "LangChain", "Hugging Face Transformers"]
+    },
+    {
+      "name": "Systems & Experimentation",
+      "keywords": ["Python", "C++", "Rust", "Docker", "Kubernetes", "Spark", "pytest", "Git"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Translating Large-Scale C Repositories to Idiomatic Safe Rust",
+      "publisher": "Submitted to ICSE '26",
+      "releaseDate": "2026-05-01",
+      "website": "https://TxWu09.github.io/publication/2026-05-01-c-to-rust-translation",
+      "summary": "Tianran Sun, Saman Dehghan, Tianxiang Wu, Reyhaneh Jabbarvand. A pipeline for translating large-scale legacy C repositories into idiomatic, memory-safe Rust, validated via differential fuzzing."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "CS 225: Data Structures",
+      "institution": "University of Illinois Urbana-Champaign",
+      "date": "2024-02-01",
+      "role": "Course Assistant",
+      "description": "Created review notes and led exam review sessions on algorithm design and data structures."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
