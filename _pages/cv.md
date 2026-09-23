@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computational Science and Engineering, Harvard University, Admitted — Sep 2026 – May 2028
+* M.S. in Computational Science and Engineering, Harvard University, Sep 2026 – May 2028 (in progress)
   * Research interests: LLM reasoning, agent & multi-agent systems, applications to real-world decision-making and embodied AI
 * B.S. in Mathematics & Computer Science, University of Illinois Urbana-Champaign, Aug 2022 – May 2026
   * GPA: 4.00/4.00, Graduated with Highest Honors, Dean's List
