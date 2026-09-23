@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi! I’m Tianxiang Wu.
-My research interests center on **generative modeling** (diffusion models, flow matching, Schrödinger Bridge methods), **LLM reasoning and agent systems**, and their applications to real-world decision-making and embodied AI.
+My research interests center on **LLM reasoning**, **agent and multi-agent systems**, with applications to real-world decision-making and embodied AI. I also have a background in generative modeling (diffusion models, flow matching, Schrödinger Bridge methods).
 
 I completed my B.S. in Mathematics & Computer Science at the University of Illinois Urbana-Champaign (May 2026) with a 4.00/4.00 GPA and Highest Honors. I will be joining **Harvard University** in Fall 2026 as a Master's student in Computational Science and Engineering.
 
